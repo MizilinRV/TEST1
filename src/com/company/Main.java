@@ -1,8 +1,9 @@
 package com.company;
 
-public class Main {
+public class Main {ss
 
     public static void main(String[] args) {
 	System.out.println("Hello world");
+	System.out.println("Second commit");
     }
 }
